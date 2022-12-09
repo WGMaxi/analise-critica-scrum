@@ -1,4 +1,4 @@
-# Analise-critica-scrum
+# Análise-critica-scrum
 <p align="justify"> O case a ser resenhado será o da SONY, publicado no site da agile 42, https://www.agile42.com/en/success-stories/success-story-sony, com o título, Sony – Success Story. O case é baseado em um projeto de GPU muito complexo, mostra como foi implantado o scrum e seus percalços. É interessante a forma fácil que o artigo nos mostra a prática do Scrum.</p>
 
 <p align="justify">O artigo nos mostra que diante de um projeto de alto risco, a empresa entendeu que era preciso ter um processo muito ágil e sem muitos contratempos, equipes diversas iriam trabalhar e a necessidade de buscar algo mais sólido era necessário.</p>
